@@ -4,3 +4,7 @@
 <br> <br>
 
 ![Image of Lord Ganesha](https://octodex.github.com/images/yaktocat.png)
+
+```python
+print("hello world")
+```
